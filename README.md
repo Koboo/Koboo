@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at **[TeamHoly](https://teamholy.de) as Developer and on several apis, frameworks and libraries**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Koboo](https://github.com/Koboo)
-
 - 📫 How to reach me **mail@koboo.eu**
 
 
