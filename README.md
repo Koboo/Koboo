@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koboo</h1>
 <h3 align="center">I am an application developer and work in a small company in Germany</h3>
 
-- 🔭 I’m currently working on **several apis, frameworks and libraries**
+- 🔭 I’m currently working on **[TeamHoly](https://teamholy.de) as Developer and on several apis, frameworks and libraries**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Koboo](https://github.com/Koboo)
 
