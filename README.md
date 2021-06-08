@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Koboo</h1>
-<h3 align="center">I am an software developer, working software-company in Germany</h3>
+<h3 align="center">Hobby and professional developer with passion. 💙</h3>
 
-- 🔭 I’m currently working at **[TeamHoly](https://teamholy.de) as Developer and on several apis, frameworks and libraries**
+- 🔭 I’m currently working at **[TeamHoly](https://teamholy.de)** as **Head-Developer** of the core library.
 
-- 🌐 I work mostly as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**
+- 🌐 I work as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**. Most of the time I destroy working things to make them new and better. 
 
 - 📫 How to reach me by Mail: **mail@koboo.eu** / ..by Discord: **Koboo#4385**
 
