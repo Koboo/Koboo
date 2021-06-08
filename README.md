@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working at **[TeamHoly](https://teamholy.de) as Developer and on several apis, frameworks and libraries**
 
-- 📫 How to reach me **mail@koboo.eu**
+- 🌐 I work mostly as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**
+
+- 📫 How to reach me by Mail: **mail@koboo.eu** / ..by Discord: **Koboo#4385**
 
 
 <h3 align="left">Languages and Tools:</h3>
