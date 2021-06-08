@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working at **[TeamHoly](https://teamholy.de)** as **Head-Developer** of the core library.
 
-- 🌐 I work as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**. Most of the time I destroy working things to make them new and better. 
+- 🌐 I work as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**.
+
+- 🔍 Most of the time I destroy working things to make them "new and better". 
 
 - 📫 How to reach me by Mail: **mail@koboo.eu** / ..by Discord: **Koboo#4385**
 
