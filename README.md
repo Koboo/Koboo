@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koboo</h1>
 <h3 align="center">Hobby and professional developer with passion. 💙</h3>
 
-- 🔭 I’m currently working at **[TeamHoly](https://teamholy.de)** as **Head-Developer** of the core library.
-
 - 🌐 I work as **Backend developer**, **data analyst** and **conceptual infrastructure engineer**.
 
 - 🔍 Most of the time I destroy working things to make them "new and better". 
