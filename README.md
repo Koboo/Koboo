@@ -2,7 +2,7 @@
 <h3 align="center">A developer with passion. 💙</h3>
 
 - 🔨 Mainly found in **the depths of some backends**. 
-- 
+
 - 📫 Mail: **admin@koboo.eu** / Discord: **Koboo#4385**
 
 - 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
