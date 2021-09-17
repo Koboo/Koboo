@@ -9,7 +9,6 @@
 
 - 🌐 For more information visit by Webpage: [koboo.eu](https://koboo.eu/)
 
-<h3 align="left">Stats:</h3>
 <p>
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koboo&show_icons=true&locale=en&theme=dark" alt="koboo" />
