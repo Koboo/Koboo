@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koboo</h1>
-<h3 align="center">Hobby and professional developer with passion. 💙</h3>
+<h3 align="center">A developer with passion. 💙</h3>
 
 - 🔨 Mainly working as **Backend developer**
 
