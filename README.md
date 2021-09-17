@@ -5,7 +5,8 @@
 
 - 📫 Mail: **admin@koboo.eu** / Discord: **Koboo#4385**
 
-- 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
+- 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/) [![Website repo.koboo.eu](https://img.shields.io/website-up-down-green-red/https/repo.koboo.eu.svg)](https://repo.koboo.eu/)
+
 
 - 🌐 For more information visit by Webpage: [koboo.eu](https://koboo.eu/)
 
