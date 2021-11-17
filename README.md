@@ -9,7 +9,9 @@
 
 - 🌐 Public Website: [koboo.eu](https://koboo.eu/)
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koboo&show_icons=true&locale=en&theme=dark" alt="koboo" />
-</p>
+- ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
+
+____________________________________________
+![Stats](https://github-readme-stats.vercel.app/api?username=koboo&show_icons=true&locale=en&theme=dark)
+____________________________________________
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=fun)
