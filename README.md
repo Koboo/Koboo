@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Koboo</h1>
-<h3 align="center">A developer with passion. 💙</h3>
+<h3 align="center">A developer, between backend diver and bit whisperer, with passion. 💙</h3>
 
-- 🔨 Mainly found in **the depths of some backends**. 
+- 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
 
-- 📫 Mail: **admin@koboo.eu** / Discord: **Koboo#4385**
+- 👾 Discord: **Koboo#4385**
 
 - 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
 
-- 🌐 For more information visit by Webpage: [koboo.eu](https://koboo.eu/)
+- 🌐 Public Website: [koboo.eu](https://koboo.eu/)
 
 <p>
   &nbsp;
