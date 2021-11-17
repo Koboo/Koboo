@@ -1,15 +1,21 @@
-<h1 align="center">Hey there 👋, I'm Koboo!</h1>
+<h2 align="center">Hey there 👋, I'm Koboo!</h2>
 <h3 align="center">I'm a developer between backend diver and bit whisperer. 🔬</h3>
 
-- 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
+### Contact me
 
-- 👾 Discord: **Koboo#4385**
+  - 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
 
-- 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
+  - 👾 Discord: **Koboo#4385**
+    
+  - ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
 
-- 🌐 Public Website: [koboo.eu](https://koboo.eu/)
+# 
 
-- ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
+### Visit my Websites
+
+  - 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
+
+  - 🌐 Public Website: [koboo.eu](https://koboo.eu/)
 
 # 
 
