@@ -17,6 +17,8 @@
 
   - 🌐 Public Website: [koboo.eu](https://koboo.eu/)
 
+  - 🌐 Paste Service: [p.koboo.eu](https://p.koboo.eu/)
+
 # 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=koboo&show_icons=true&locale=en&theme=dark)
