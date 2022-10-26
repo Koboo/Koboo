@@ -13,11 +13,11 @@
 
 ### Visit my Websites
 
-  - 🧰 Public repository: [repo.koboo.eu](https://repo.koboo.eu/)
+  - 🧰 Public repository: [reposilite.koboo.eu](https://reposilite.koboo.eu/)
 
   - 🌐 Public Website: [koboo.eu](https://koboo.eu/)
 
-  - 🌐 Paste Service: [p.koboo.eu](https://p.koboo.eu/)
+  - 🌐 Paste Service: [paste.koboo.eu](https://p.koboo.eu/)
 
 # 
 
