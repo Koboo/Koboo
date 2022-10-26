@@ -5,7 +5,7 @@
 
   - 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
 
-  - 👾 Discord: **Koboo#4385**
+  - 👾 Discord: **Koboo#4444**
     
   - ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
 
