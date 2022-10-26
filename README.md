@@ -22,7 +22,3 @@
 # 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=koboo&show_icons=true&locale=en&theme=dark)
-
-# 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=fun)
