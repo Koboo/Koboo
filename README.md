@@ -15,8 +15,6 @@
 
   - 🧰 Public repository: [reposilite.koboo.eu](https://reposilite.koboo.eu/)
 
-  - 🌐 Public Website: [koboo.eu](https://koboo.eu/) (offline)
-
   - 🌐 Paste Service: [paste.koboo.eu](https://p.koboo.eu/)
 
 # 
