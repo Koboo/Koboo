@@ -1,18 +1,18 @@
-### Contact me
+### Contact
 
   - 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
 
-  - 👾 Discord: **Koboo#0924** / [My Server](https://discord.gg/MrbtKASzVc)
+  - 👾 Discord: **Koboo#0924** / [Server](https://discord.gg/MrbtKASzVc)
     
   - ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
 
 # 
 
-### Visit my Websites
+### Links
 
-  - 🧰 Public repository: [reposilite.koboo.eu](https://reposilite.koboo.eu/)
+  - 🧰 Public-Repository: [reposilite.koboo.eu](https://reposilite.koboo.eu/)
 
-  - 🌐 Paste Service: [paste.koboo.eu](https://p.koboo.eu/)
+  - 🌐 Paste-Service: [paste.koboo.eu](https://p.koboo.eu/)
 
 # 
 
