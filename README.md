@@ -1,6 +1,3 @@
-<h2 align="center">Hey there 👋, I'm Koboo!</h2>
-<h3 align="center">I'm a developer between backend diver and bit whisperer. 🔬</h3>
-
 ### Contact me
 
   - 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
