@@ -2,7 +2,7 @@
 
   - 📫 Mail: **[admin@koboo.eu](mailto://admin@koboo.eu)**
 
-  - 👾 Discord: **Koboo#0924** / [Server](https://discord.gg/MrbtKASzVc)
+  - 👾 Discord: **Koboo** / [Server](https://discord.gg/MrbtKASzVc)
     
   - ❔ If you got a question, open an [issue here](https://github.com/Koboo/Koboo/issues)!
 
