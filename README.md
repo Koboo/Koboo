@@ -10,9 +10,7 @@
 
 ### Links
 
-  - 🧰 Public-Repository: [reposilite.koboo.eu](https://reposilite.koboo.eu/)
-
-  - 🌐 Paste-Service: [paste.koboo.eu](https://p.koboo.eu/)
+  - 🧰 Repository: [Maven Central](https://mvnrepository.com/artifact/eu.koboo)
 
 # 
 
